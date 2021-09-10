@@ -25,7 +25,7 @@ int main()
 
     if (age=50)
     {
-        printf("u have reached half century");
+        printf("reached half century");
     }
 
     return 0;
