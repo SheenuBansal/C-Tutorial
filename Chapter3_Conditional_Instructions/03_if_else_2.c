@@ -22,10 +22,10 @@ int main()
     // Following block of code is executed for whatever vaue of age, 
     // because it is assigning value to age , not doing check.
     // so BE CAREFUL
-    
+
     if (age=50)
     {
-        printf("half century");
+        printf("u have reached half century");
     }
 
     return 0;
